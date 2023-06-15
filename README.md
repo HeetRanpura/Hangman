@@ -1,4 +1,4 @@
-Hangman Game
+Hangman Game:
 This is a classic Hangman game built using Python. The game allows users to guess a word letter by letter within a certain number of attempts. The game is built using Python 3 and is a console-based application.
 
 Installation
