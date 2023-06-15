@@ -13,12 +13,6 @@ Contributing
 Contributions are always welcome! If you find any bugs or issues with the game, please feel free to open an issue or submit a pull request.
 
 Credits
-This game was built by [insert your name here].
-
-License
-This project is licensed under the [insert license type here] license. See the LICENSE file for more information.
-
-Contact
-If you have any questions or comments about the game, please feel free to contact me at [insert your email address here].
+This game was built by Heet Ranpura.
 
 Thank you for playing the Hangman game!
