@@ -1,18 +1,24 @@
-Hangman Game:
-This is a classic Hangman game built using Python. The game allows users to guess a word letter by letter within a certain number of attempts. The game is built using Python 3 and is a console-based application.
-
-Installation
-To run the game, you need to have Python 3 installed on your system. You can download Python from the official website https://www.python.org/downloads/.
-
-Once you have Python installed, you can download the repository and run the hangman.py file.
-
-Usage
-To play the game, simply run the hangman.py file using Python. The game will prompt you to enter a word and then you can start guessing letters. You have a limited number of attempts to guess the word correctly. If you run out of attempts, the game is over.
-
-Contributing
-Contributions are always welcome! If you find any bugs or issues with the game, please feel free to open an issue or submit a pull request.
-
-Credits
-This game was built by Heet Ranpura.
-
-Thank you for playing the Hangman game!
+🎯 Hangman Game (Python)
+A fun and interactive console-based Hangman game built using Python.
+Guess the hidden word one letter at a time — but be careful, you only get a limited number of attempts!
+🚀 Features
+🧠 Random word selection
+🎮 Interactive console gameplay
+⚠️ Limited attempts to guess correctly
+🔁 Play again option after each game
+🧹 Clean and beginner-friendly code
+📦 Installation
+Make sure you have Python 3+ installed.
+Download it here → https://www.python.org/downloads/
+Clone the repository:
+git clone https://github.com/HeetRanpura/Hangman.git
+cd Hangman
+▶️ How to Play
+Run the game by executing:
+python hangman.py
+Then:
+A word will be chosen secretly 👀
+Enter letters to guess the hidden word ✍️
+You win if you reveal the entire word 🎉
+If attempts run out → Game Over 😢
+Good luck!
